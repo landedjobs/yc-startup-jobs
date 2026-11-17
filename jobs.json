@@ -141,32 +141,6 @@
     ]
   },
   {
-    "dedupeKey": "job:8bc0affb-9e16-47fc-ad96-e8a392b96f20",
-    "companyId": "company_4ae8522b09cc0632924ed6a9c2848994",
-    "company": "Uno Wallet",
-    "companyDomain": "myunowallet.com",
-    "role": "Founding Sr. Product Leader (Technical)",
-    "applyUrl": "https://go.landed.jobs/djywrd7",
-    "location": "South San Francisco, CA · Palo Alto, CA",
-    "locations": [
-      "South San Francisco, CA",
-      "Palo Alto, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "recommendation systems"
-    ],
-    "posted": "2026-10-01T00:07:24.671Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC P26",
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:125975c0-1690-4e5b-97fb-01d077efb7a3",
     "companyId": "company_1d3ea1146e68d594ca276c3b291660df",
     "company": "LightSprint",
@@ -589,6 +563,29 @@
     "companyTier": "C",
     "companyBadges": [
       "YC W26"
+    ]
+  },
+  {
+    "dedupeKey": "job:39a6f5f1-3206-47d5-94fa-c526213f5f67",
+    "companyId": "company_3abdb316975af810c4776db916c501d0",
+    "company": "Nessie",
+    "companyDomain": "nessielabs.com",
+    "role": "Software Engineering Intern",
+    "applyUrl": "https://go.landed.jobs/4smserm",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-11-16T00:12:41.157Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC F25",
+      "Seed"
     ]
   },
   {
@@ -1594,6 +1591,29 @@
     ]
   },
   {
+    "dedupeKey": "job:325906ec-ad66-4d7d-8dae-b2bd9267f740",
+    "companyId": "company_1f55905735e403c59ab2382e2dc17713",
+    "company": "Harper",
+    "companyDomain": "harperinsure.com",
+    "role": "Senior Product Manager - Customer Success",
+    "applyUrl": "https://go.landed.jobs/bqshwl2",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-16T17:45:27.337Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC W25",
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:4a485b21-4f67-42e8-b003-427cc1811529",
     "companyId": "company_f7d8f8969421e09ae66a5d5973a41990",
     "company": "Bild AI",
@@ -2157,6 +2177,106 @@
     ]
   },
   {
+    "dedupeKey": "job:1cffa1a6-be31-4dcc-ac35-9d7d2a5e9c6f",
+    "companyId": "company_a1827d7df378c8cdf636622637546411",
+    "company": "Simple AI",
+    "companyDomain": "usesimple.ai",
+    "role": "Sales Engineer",
+    "applyUrl": "https://go.landed.jobs/y5guejk",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "mid",
+    "skills": [
+      "APIs",
+      "integrations",
+      "telephony systems",
+      "cloud infrastructure",
+      "voice/telephony",
+      "conversational AI",
+      "contact center technologies"
+    ],
+    "posted": "2026-11-12T10:19:32.300Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S24",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:36f56ee7-7509-4233-b932-3dca1fb40fcb",
+    "companyId": "company_a1827d7df378c8cdf636622637546411",
+    "company": "Simple AI",
+    "companyDomain": "usesimple.ai",
+    "role": "Infrastructure Engineer",
+    "applyUrl": "https://go.landed.jobs/ck9zzit",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "AWS infrastructure using Terraform and Kubernetes",
+      "EKS clusters",
+      "networking",
+      "IAM",
+      "load balancing",
+      "secrets management",
+      "CI/CD pipelines",
+      "Argo CD",
+      "Helm",
+      "PostgreSQL",
+      "Redis",
+      "GPU workloads"
+    ],
+    "posted": "2026-11-12T10:17:57.416Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S24",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:19b0e9b9-975d-428a-8757-bf9b017fec24",
+    "companyId": "company_a1827d7df378c8cdf636622637546411",
+    "company": "Simple AI",
+    "companyDomain": "usesimple.ai",
+    "role": "Forward Deployed Engineer",
+    "applyUrl": "https://go.landed.jobs/mrgn4lc",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "entry",
+    "skills": [
+      "AI agents",
+      "LLM",
+      "prompt engineering",
+      "Python",
+      "TypeScript",
+      "Ruby",
+      "React",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "posted": "2026-11-12T10:16:04.060Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S24",
+      "Seed"
+    ]
+  },
+  {
     "dedupeKey": "job:96c236e3-1eda-4b88-b251-5a7b468ef31c",
     "companyId": "company_786629925321270e75144842269970fb",
     "company": "Conveo",
@@ -2376,70 +2496,6 @@
     ]
   },
   {
-    "dedupeKey": "job:1cffa1a6-be31-4dcc-ac35-9d7d2a5e9c6f",
-    "companyId": "company_a1827d7df378c8cdf636622637546411",
-    "company": "Simple AI",
-    "companyDomain": "usesimple.ai",
-    "role": "Sales Engineer",
-    "applyUrl": "https://go.landed.jobs/y5guejk",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "mid",
-    "skills": [
-      "APIs",
-      "integrations",
-      "telephony systems",
-      "cloud infrastructure",
-      "voice/telephony",
-      "conversational AI",
-      "contact center technologies"
-    ],
-    "posted": "2026-11-03T05:17:54.149Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:19b0e9b9-975d-428a-8757-bf9b017fec24",
-    "companyId": "company_a1827d7df378c8cdf636622637546411",
-    "company": "Simple AI",
-    "companyDomain": "usesimple.ai",
-    "role": "Forward Deployed Engineer",
-    "applyUrl": "https://go.landed.jobs/mrgn4lc",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "entry",
-    "skills": [
-      "AI agents",
-      "LLM",
-      "prompt engineering",
-      "Python",
-      "TypeScript",
-      "Ruby",
-      "React",
-      "PostgreSQL",
-      "AWS"
-    ],
-    "posted": "2026-11-03T05:17:44.695Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S24",
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:beaf96fa-00a0-4369-aa57-bd612b349c75",
     "companyId": "company_7215e78c493d200d61fdf5f4467bbad2",
     "company": "Kastle (YC S24)",
@@ -2551,42 +2607,6 @@
       "distributed computing"
     ],
     "posted": "2026-10-21T02:07:55.770Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:36f56ee7-7509-4233-b932-3dca1fb40fcb",
-    "companyId": "company_a1827d7df378c8cdf636622637546411",
-    "company": "Simple AI",
-    "companyDomain": "usesimple.ai",
-    "role": "Infrastructure Engineer",
-    "applyUrl": "https://go.landed.jobs/ck9zzit",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "AWS infrastructure using Terraform and Kubernetes",
-      "EKS clusters",
-      "networking",
-      "IAM",
-      "load balancing",
-      "secrets management",
-      "CI/CD pipelines",
-      "Argo CD",
-      "Helm",
-      "PostgreSQL",
-      "Redis",
-      "GPU workloads"
-    ],
-    "posted": "2026-10-11T22:11:01.113Z",
     "companyTier": "B",
     "companyBadges": [
       "YC S24",
@@ -3310,37 +3330,6 @@
     ]
   },
   {
-    "dedupeKey": "job:139f02af-fd85-467f-af3b-fcde46cb7498",
-    "companyId": "company_1ddbc07f5798db9560890bb37766e1c9",
-    "company": "Circleback",
-    "companyDomain": "circleback.ai",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/p88kji6",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "React",
-      "Next.js",
-      "Prisma",
-      "SWR",
-      "Electron",
-      "Swift",
-      "React Native"
-    ],
-    "posted": "2026-10-28T00:44:28.274Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W24",
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:25bfc1cb-b554-47fe-90b4-84e33049136b",
     "companyId": "company_b940568178cdd0d830c54ba548eadfbc",
     "company": "Stacksync",
@@ -3357,37 +3346,6 @@
     "level": "",
     "skills": [],
     "posted": "2026-10-28T00:21:36.953Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:7b61a0dc-b7b7-403a-9cc0-69f8fa34cdcc",
-    "companyId": "company_1ddbc07f5798db9560890bb37766e1c9",
-    "company": "Circleback",
-    "companyDomain": "circleback.ai",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/e2mlkmb",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "React",
-      "Next.js",
-      "Prisma",
-      "SWR",
-      "Electron",
-      "Swift",
-      "React Native"
-    ],
-    "posted": "2026-10-27T21:32:45.880Z",
     "companyTier": "B",
     "companyBadges": [
       "YC W24",
@@ -5724,7 +5682,7 @@
     "companyId": "company_47b7fb5224c9e008721f93c1e18fce77",
     "company": "Firecrawl",
     "companyDomain": "firecrawl.dev",
-    "role": "Senior Field Engagement Manager",
+    "role": "Deployment Experiences Lead",
     "applyUrl": "https://go.landed.jobs/c42tmxx",
     "location": "San Francisco, CA",
     "locations": [
@@ -7263,36 +7221,6 @@
     ]
   },
   {
-    "dedupeKey": "job:dc8897d9-30e7-4289-9418-d65783a4854c",
-    "companyId": "company_85923709b819b5d1b286b7395a63c69f",
-    "company": "Parallel Bio",
-    "companyDomain": "parallel.bio",
-    "role": "Principal Platform Bioengineering & Assay Development",
-    "applyUrl": "https://go.landed.jobs/lwbc23x",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "principal",
-    "skills": [
-      "organoid models",
-      "immune-cell assays",
-      "Design of Experiments",
-      "process characterization",
-      "Quality by Design",
-      "automated laboratory platforms"
-    ],
-    "posted": "2026-10-21T06:08:06.659Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "YC S21",
-      "Series A"
-    ]
-  },
-  {
     "dedupeKey": "job:dc085785-e739-4e89-8f2a-f7d671a79368",
     "companyId": "company_f2e976d5281dbb7eaddc32cd1b5644c2",
     "company": "Mach9",
@@ -7442,42 +7370,6 @@
     "companyBadges": [
       "YC S21",
       "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:7246d2cc-d8cd-46ce-bf5b-d0a3e332399d",
-    "companyId": "company_85923709b819b5d1b286b7395a63c69f",
-    "company": "Parallel Bio",
-    "companyDomain": "parallel.bio",
-    "role": "Scientist (Cell & Tissue Operations)",
-    "applyUrl": "https://go.landed.jobs/73lrnd5",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "entry",
-    "skills": [
-      "cell and tissue culture",
-      "flow cytometry",
-      "ELISA",
-      "MSD",
-      "ELISpot",
-      "cytotoxicity",
-      "imaging",
-      "qPCR",
-      "cryopreservation",
-      "aseptic technique",
-      "organoid cultures",
-      "3D culture"
-    ],
-    "posted": "2026-10-06T18:00:38.407Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "YC S21",
-      "Series A"
     ]
   },
   {
@@ -8535,6 +8427,33 @@
     ]
   },
   {
+    "dedupeKey": "job:9186866b-0fb0-466a-afcc-f783759b147e",
+    "companyId": "company_c6c3be2673e66b3b94f9520e77db9de1",
+    "company": "Zip",
+    "companyDomain": "ziphq.com",
+    "role": "Product Designer, Contract Orchestration",
+    "applyUrl": "https://go.landed.jobs/0td4ovt",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "UX Research",
+      "visual design",
+      "prototyping with Claude, Figma Make, Cursor"
+    ],
+    "posted": "2026-11-12T22:25:38.444Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S20",
+      "$2.2B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:6c98745b-fa4a-44e5-a631-4f0f68715f1c",
     "companyId": "company_c6c3be2673e66b3b94f9520e77db9de1",
     "company": "Zip",
@@ -8556,6 +8475,67 @@
       "Salesforce"
     ],
     "posted": "2026-11-11T20:21:39.215Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S20",
+      "$2.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:de9189e2-f921-4b7c-b85f-e8224940e4e5",
+    "companyId": "company_e99a3f5c44a22714396066f4f351d4b3",
+    "company": "Luminai",
+    "companyDomain": "luminai.com",
+    "role": "Applied AI Engineer, Team Lead",
+    "applyUrl": "https://go.landed.jobs/q1l7ts1",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "observability"
+    ],
+    "posted": "2026-11-05T17:49:54.520Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S20",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:527261f9-91a8-42c0-a2d4-93ff58a3cd3f",
+    "companyId": "company_c6c3be2673e66b3b94f9520e77db9de1",
+    "company": "Zip",
+    "companyDomain": "ziphq.com",
+    "role": "Senior Manager, IT Ops & Corporate Security",
+    "applyUrl": "https://go.landed.jobs/7yc4sj5",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "security",
+    "level": "senior",
+    "skills": [
+      "Google Workspace",
+      "Okta",
+      "SSO",
+      "MFA",
+      "Iru",
+      "macOS",
+      "Windows",
+      "Meraki",
+      "Zoom Rooms",
+      "EDR",
+      "SOC 2"
+    ],
+    "posted": "2026-11-03T20:20:24.974Z",
     "companyTier": "A",
     "companyBadges": [
       "YC S20",
