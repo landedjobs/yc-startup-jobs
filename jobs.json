@@ -465,6 +465,67 @@
     ]
   },
   {
+    "dedupeKey": "job:48979ba6-b105-4b9e-9386-1957dc614b08",
+    "companyId": "company_9133086fc8f19d3239d65091f2eeb581",
+    "company": "MSPilot",
+    "companyDomain": "mspilot.io",
+    "role": "Junior Software Engineer (New Grad)",
+    "applyUrl": "https://go.landed.jobs/r199950",
+    "location": "🌐 Remote (US, Ukraine, Poland)",
+    "locations": [
+      "San Francisco, CA",
+      "Lviv, Ukraine",
+      "Kraków, Poland"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "rails",
+      "AI agents",
+      "js",
+      "React",
+      "Next.js",
+      "PostgreSQL",
+      "LLM"
+    ],
+    "posted": "2026-11-21T00:22:02.123Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC F25",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:d7f421f0-65f5-40b2-8bdb-d91a078f25b5",
+    "companyId": "company_9133086fc8f19d3239d65091f2eeb581",
+    "company": "MSPilot",
+    "companyDomain": "mspilot.io",
+    "role": "Quality Assurance Engineer",
+    "applyUrl": "https://go.landed.jobs/qkod4yl",
+    "location": "🌐 Remote (US, Ukraine, Poland)",
+    "locations": [
+      "San Francisco, CA",
+      "Lviv, Ukraine",
+      "Kraków, Poland"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "rails",
+      "AI agents"
+    ],
+    "posted": "2026-11-21T00:22:02.123Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC F25",
+      "Seed"
+    ]
+  },
+  {
     "dedupeKey": "job:39a6f5f1-3206-47d5-94fa-c526213f5f67",
     "companyId": "company_3abdb316975af810c4776db916c501d0",
     "company": "Nessie",
@@ -545,26 +606,29 @@
     ]
   },
   {
-    "dedupeKey": "job:8aedf33a-fa7c-4730-80ed-6792536e4993",
-    "companyId": "company_63bda8824b2132797cc2a8648f0e51af",
-    "company": "Flick",
-    "companyDomain": "flick.art",
-    "role": "Senior Full-stack Engineer",
-    "applyUrl": "https://go.landed.jobs/ertef3d",
-    "location": "🌐 Remote (US)",
-    "locations": [],
+    "dedupeKey": "job:af2241e4-5f7b-40dc-98ce-5e8c400c1a33",
+    "companyId": "company_7cba2f40e592617fce02bb9e31ed5e17",
+    "company": "Reacher",
+    "companyDomain": "reacherapp.com",
+    "role": "Product Lead, Brand Platform",
+    "applyUrl": "https://go.landed.jobs/ngyrhdo",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Los Angeles, CA"
+    ],
     "remote": "remote",
     "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
+    "family": "product_management",
+    "level": "mid",
     "skills": [
-      "distributed systems"
+      "marketing automation",
+      "Figma"
     ],
-    "posted": "2026-09-18T06:47:38.587Z",
-    "companyTier": "B",
+    "posted": "2026-11-20T01:22:34.696Z",
+    "companyTier": "C",
     "companyBadges": [
-      "YC F25",
-      "Seed"
+      "YC S25",
+      "Pre-seed"
     ]
   },
   {
@@ -2614,6 +2678,34 @@
     ]
   },
   {
+    "dedupeKey": "job:d527bc93-b937-414f-a215-4ea0ec7e801c",
+    "companyId": "company_221c41f34f39ae924362c24ae50580ae",
+    "company": "Legora",
+    "companyDomain": "legora.com",
+    "role": "Senior Data Scientist - Product",
+    "applyUrl": "https://go.landed.jobs/mvhrq4b",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "Hex",
+      "Dagster"
+    ],
+    "posted": "2026-11-18T18:23:02.580Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC W24",
+      "$5.5B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:25a36d6d-7558-4816-9dc3-a516818d20ee",
     "companyId": "company_37ecee317bd2f1e9b1a739cfe5a584fe",
     "company": "Retell AI",
@@ -3201,35 +3293,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a7b09cc4-0b56-4ccf-ac80-28a27d6b2faa",
-    "companyId": "company_221c41f34f39ae924362c24ae50580ae",
-    "company": "Legora",
-    "companyDomain": "legora.com",
-    "role": "Engineering Manager",
-    "applyUrl": "https://go.landed.jobs/nr1f7lj",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Node.js",
-      "React",
-      "Azure",
-      "AWS",
-      "Kubernetes"
-    ],
-    "posted": "2026-10-29T15:34:11.067Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W24",
-      "$5.5B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:142da2e3-7224-463b-adaa-d11c0a7ef456",
     "companyId": "company_8485e7389ed9a5eac1d24e87dc5bc5fe",
     "company": "Reducto",
@@ -3446,49 +3509,6 @@
     "companyBadges": [
       "YC W24",
       "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:fd4ddc3f-b51c-4af5-addf-d6f8ff6ba266",
-    "companyId": "company_37ecee317bd2f1e9b1a739cfe5a584fe",
-    "company": "Retell AI",
-    "companyDomain": "retellai.com",
-    "role": "Compliance Manager (Contract)",
-    "applyUrl": "https://go.landed.jobs/e1q6hr1",
-    "location": "🌐 Remote (US, South Africa, Ukraine +6)",
-    "locations": [
-      "San Francisco, CA",
-      "South Africa",
-      "Ukraine",
-      "Brazil",
-      "Argentina",
-      "Romania",
-      "Poland",
-      "Serbia",
-      "Philippines"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "",
-    "skills": [
-      "SOC 2",
-      "HIPAA",
-      "Python",
-      "JavaScript/TypeScript",
-      "Bash",
-      "IAM",
-      "encryption",
-      "networking",
-      "logging",
-      "vulnerability management",
-      "cloud security"
-    ],
-    "posted": "2026-10-05T18:23:23.793Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W24",
-      "Seed"
     ]
   },
   {
@@ -3978,39 +3998,6 @@
       "telephony"
     ],
     "posted": "2026-10-07T19:55:32.716Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S23",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:1521d349-6dd8-47a8-a3b9-e848e9e94361",
-    "companyId": "company_272cc8d0c4470dbdec64d6187251e33b",
-    "company": "Strada",
-    "companyDomain": "getstrada.com",
-    "role": "Cyber Incident Response Lead - Remote",
-    "applyUrl": "https://go.landed.jobs/tlj7mhm",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "senior",
-    "skills": [
-      "incident management",
-      "cloud infrastructure",
-      "distributed systems",
-      "monitoring tools",
-      "logs",
-      "data (incident metrics, queries, trend analysis)",
-      "process mapping",
-      "runbook development",
-      "workflow design"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
       "YC S23",
@@ -5222,31 +5209,6 @@
     "companyBadges": [
       "YC W23",
       "$350M valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:4544eeef-9d6b-4ec9-b083-d781e0667437",
-    "companyId": "company_87e4bce9441d248bd6592bbb3ea484f6",
-    "company": "Diffuse Bio",
-    "companyDomain": "diffuse.bio",
-    "role": "ML Research Engineer",
-    "applyUrl": "https://go.landed.jobs/5oey5xn",
-    "location": "🌐 Remote (US, Canada)",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [
-      "PyTorch"
-    ],
-    "posted": "2026-09-18T06:47:06.380Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W23",
-      "Seed"
     ]
   },
   {
@@ -6704,29 +6666,34 @@
     ]
   },
   {
-    "dedupeKey": "job:a4f8690f-33e8-40c6-a987-1dc61eddf8ad",
-    "companyId": "company_d894f372754d896706e121f623b4f064",
-    "company": "Reforged Labs",
-    "companyDomain": "reforgedlabs.com",
-    "role": "Product Manager, Enterprise",
-    "applyUrl": "https://go.landed.jobs/56yqmsk",
-    "location": "🌐 Remote (US, Singapore, Vietnam)",
+    "dedupeKey": "job:b5718896-38e1-44a3-94e7-00d2e6d885f3",
+    "companyId": "company_19f799bff1683edeea8e72d236e41968",
+    "company": "Stepful",
+    "companyDomain": "stepful.com",
+    "role": "Staff Product Designer",
+    "applyUrl": "https://go.landed.jobs/eu2tn67",
+    "location": "New York City, NY",
     "locations": [
-      "San Francisco, CA",
-      "Singapore"
+      "New York City, NY"
     ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "",
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "staff",
     "skills": [
-      "scoping and delivering software products end-to-end"
+      "product thinking",
+      "visual design",
+      "design thinking",
+      "information architecture",
+      "service design",
+      "user research",
+      "A/B testing"
     ],
-    "posted": "2026-09-18T06:47:20.947Z",
+    "posted": "2026-11-18T14:09:29.188Z",
     "companyTier": "B",
     "companyBadges": [
-      "YC W22",
-      "Seed"
+      "YC S21",
+      "Series C"
     ]
   },
   {
@@ -7334,37 +7301,6 @@
     "companyBadges": [
       "YC S21",
       "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:b5718896-38e1-44a3-94e7-00d2e6d885f3",
-    "companyId": "company_19f799bff1683edeea8e72d236e41968",
-    "company": "Stepful",
-    "companyDomain": "stepful.com",
-    "role": "Staff Product Designer",
-    "applyUrl": "https://go.landed.jobs/eu2tn67",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "staff",
-    "skills": [
-      "product thinking",
-      "visual design",
-      "design thinking",
-      "information architecture",
-      "service design",
-      "user research",
-      "A/B testing"
-    ],
-    "posted": "2026-09-24T21:24:25.726Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S21",
-      "Series C"
     ]
   },
   {
@@ -8538,6 +8474,68 @@
     "companyBadges": [
       "YC S20",
       "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:457eb54c-f633-4e83-a961-c16f5e0efe55",
+    "companyId": "company_93bdb7179dc9463635c241059dee82fd",
+    "company": "Draftwise",
+    "companyDomain": "draftwise.com",
+    "role": "Product Manager",
+    "applyUrl": "https://go.landed.jobs/cv3ng8v",
+    "location": "🌐 Remote (US, Canada)",
+    "locations": [
+      "US",
+      "Canada"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "product management",
+      "forward-deployed engineering",
+      "deployment strategy",
+      "enterprise software",
+      "analytical judgment"
+    ],
+    "posted": "2026-09-22T21:52:53.533Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S20",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:f18addc6-2281-4c27-81b5-b21ec4b1d0d8",
+    "companyId": "company_a4fb6f3afa6dbc1b22c7bed701d660af",
+    "company": "Roboflow",
+    "companyDomain": "roboflow.com",
+    "role": "Senior Software Engineer",
+    "applyUrl": "https://go.landed.jobs/6bp45im",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "backend systems",
+      "data pipelines",
+      "full-stack engineering",
+      "designing systems that process large volumes of data reliably",
+      "annotation or human-data platforms",
+      "marketplaces with payouts",
+      "ML training data pipelines",
+      "computer vision tooling"
+    ],
+    "posted": "2026-09-21T21:06:31.108Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S20",
+      "Series B"
     ]
   }
 ]
